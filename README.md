@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bibek gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bibek gamer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bibek chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek chaudhari" height="30" width="40" /></a>
+<a href="https://codepen.io/Bibek-Gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bibek gamer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bibek-chaudhari-a553b6270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek chaudhari" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bibekoggu98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bibek kusumiya" height="30" width="40" /></a>
-<a href="https://instagram.com/bibek kusumiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibek kusumiya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bibek gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bibek gamer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bibekkusumiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibek kusumiya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUzyN9xUuyAEPEvxSvU3s0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bibek gamer" height="30" width="40" /></a>
 <a href="https://discord.gg/bibek9962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bibek9962" height="30" width="40" /></a>
 </p>
 
