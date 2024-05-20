@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BibekChaudhary08?tab=repositories](https://github.com/BibekChaudhary08?tab=repositories)
 
-- 💬 Ask me about **React, Next.js, Javascript, Tailwind, Wordpress**
+- 💬 Ask me about **React.js, Next.js, Javascript, Tailwind, Wordpress**
 
 - 📫 How to reach me **bibekchaudhary0728n@gmail.com**
 
