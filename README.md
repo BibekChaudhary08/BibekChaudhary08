@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekchaudhary08&label=Profile%20views&color=0e75b6&style=flat" alt="bibekchaudhary08" /> </p>
 
-- 🌱 I’m currently learning **React.js as Frontend Developer**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BibekChaudhary08?tab=repositories](https://github.com/BibekChaudhary08?tab=repositories)
 
-- 💬 Ask me about **React, Javascript, Tailwind, Wordpress**
+- 💬 Ask me about **React, Next.js, Javascript, Tailwind, Wordpress**
 
 - 📫 How to reach me **bibekchaudhary0728n@gmail.com**
 
